@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\App_1\App_1\bin\Debug\App_1.exe.config
+C:\Users\hp\source\repos\App_1\App_1\bin\Debug\App_1.exe
+C:\Users\hp\source\repos\App_1\App_1\bin\Debug\App_1.pdb
+C:\Users\hp\source\repos\App_1\App_1\obj\Debug\App_1.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\App_1\App_1\obj\Debug\App_1.Form1.resources
+C:\Users\hp\source\repos\App_1\App_1\obj\Debug\App_1.Properties.Resources.resources
+C:\Users\hp\source\repos\App_1\App_1\obj\Debug\App_1.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\App_1\App_1\obj\Debug\App_1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\App_1\App_1\obj\Debug\App_1.exe
+C:\Users\hp\source\repos\App_1\App_1\obj\Debug\App_1.pdb
